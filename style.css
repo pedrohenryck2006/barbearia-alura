@@ -1,1 +1,9 @@
-
+body{
+    background:#ccccc ;
+}
+p{
+    text-align: center;
+}
+em strong{
+    color:rgba(248, 10, 10, 0.493)
+}
