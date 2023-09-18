@@ -1,8 +1,17 @@
 body{
-    background:#ccccc ;
+    background: #ccccc ;
+}
+#banner {
+    width: 100%;
+}
+h1 {
+    text-align: center;
 }
 p{
     text-align: center;
+}
+#missao {
+    font-size: 20px;
 }
 em strong{
     color:rgba(248, 10, 10, 0.493)
