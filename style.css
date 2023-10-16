@@ -1,13 +1,40 @@
 body{
-    background: #ccccc ;
+    
 }
 #banner {
     width:100%;
 }
 .principal
-#banner {
-    width: 100%;
+ {
+    background: #cccccc ;
+    padding: 30px;
+ }
+ h1{
+    text-aling: center;
+ } 
+ p{
+    text-aling: center;
+ } 
+ em estrong {
+    text-aling: center;
+ }
+#missao{
+    font-size: 20px;
 }
+.itens{
+    font-style:italic
+}
+.beneficios{
+    background:#FFFFFF;
+     PANDDING: 20PX;
+}
+EM STRONG{
+    
+}
+    
+
+}
+
 h1 {
     text-align: center;
 }
