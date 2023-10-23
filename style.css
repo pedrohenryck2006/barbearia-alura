@@ -26,24 +26,20 @@ body{
 }
 .beneficios{
     background:#FFFFFF;
-     PANDDING: 20PX;
+     padding: 20PX;
 }
-EM STRONG{
-    
+em strong{ 
+    color:black
 }
-    
-
-}
-
-h1 {
+h2 {
     text-align: center;
 }
-p{
-    text-align: center;
+ul{
+   display:inline-block;
+   vertical-alig:top;
+   width:20%;
+   margin-ringht:15% 
 }
-#missao {
-    font-size: 20px;
-}
-em strong{
-    color:rgba(248, 10, 10, 0.493)
-}
+  .imagembeneficios{
+    width:50%;
+  }  
